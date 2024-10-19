@@ -1,0 +1,853 @@
+# Copyright (C) 2023 ThemeGrill
+# This file is distributed under the GNU General Public License, version 3 (GPLv3).
+msgid ""
+msgstr ""
+"Project-Id-Version: Ample 1.3.5\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"POT-Creation-Date: 2023-09-18 11:32:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:20 content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:26 content-single.php:35
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:24
+msgid "Tagged on: "
+msgstr ""
+
+#: content.php:48 inc/widgets/class-ample-featured-posts-widget.php:164
+msgid "Read more"
+msgstr ""
+
+#: functions.php:89
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:90
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/class-ample-admin.php:38
+msgid "Processing..."
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:41
+#. translators: %s: Theme Name.
+msgid "%s Options"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:74
+#. translators: %s: Theme version.
+msgid "Ample %s"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:83
+#. translators: %s: Theme Name.
+msgid "Welcome to %s!"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:89
+#. translators: %s: Theme Name.
+msgid "Important links to get you started with %s"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:95
+msgid "Get Started"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:98
+msgid "Learn Basics"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:103
+msgid "Next Steps"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:105
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:106
+msgid "Starter Demos"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:107
+msgid "Premium Version"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:112
+msgid "Further Actions"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:114
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/class-ample-dashboard.php:115
+msgid "Leave a review"
+msgstr ""
+
+#: inc/admin/class-ample-notice.php:59 inc/admin/class-ample-notice.php:78
+#: inc/admin/class-ample-theme-review-notice.php:152
+#: inc/admin/class-ample-theme-review-notice.php:170
+#: inc/admin/class-ample-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-ample-notice.php:63 inc/admin/class-ample-notice.php:82
+#: inc/admin/class-ample-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Ample"
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:83
+#. translators: %s: Smile icon
+msgid "The above word is just to draw your attention. %s"
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:92
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+msgid ""
+"Hope you are having a nice experience with %1$s %2$s %3$s theme. Please "
+"provide this theme a nice review."
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:100
+msgid "What benefit would you have?"
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:106
+#. translators: %s: Smiley icon
+msgid ""
+"Basically, it would encourage us to release updates regularly with new "
+"features & bug fixes so that you can keep on using the theme without any "
+"issues and also to provide free support like we have been doing. %s"
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:115
+msgid "Sure, I'd love to!"
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:120
+msgid "I already did!"
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:125
+#: inc/admin/class-ample-upgrade-notice.php:95
+msgid "Maybe later"
+msgstr ""
+
+#: inc/admin/class-ample-theme-review-notice.php:130
+msgid "I have a query"
+msgstr ""
+
+#: inc/admin/class-ample-upgrade-notice.php:90
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+msgid "Upgrade to pro"
+msgstr ""
+
+#: inc/admin/class-ample-upgrade-notice.php:100
+msgid "Got pre sales queries?"
+msgstr ""
+
+#: inc/admin/class-ample-welcome-notice.php:26
+msgid "Get started with Ample"
+msgstr ""
+
+#: inc/admin/class-ample-welcome-notice.php:54
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+msgid ""
+"Welcome! Thank you for choosing Ample! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/admin/class-ample-welcome-notice.php:63
+msgid ""
+"Clicking the button will install and activate the ThemeGrill demo importer "
+"plugin."
+msgstr ""
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:20
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:53
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Choose the option that you want."
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Show Both"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Responsive Menu Style"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Switch to new responsive menu."
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Header Title Bar Background Image"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Upload Background Image for Header Title Bar."
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Choose Background Color for Header Title Bar"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Choose Text Color for Header Title Bar"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Header Image Position"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Choose top header image display position."
+msgstr ""
+
+#: inc/customizer.php:154
+msgid ""
+"Position Above (Default): Display the Header image just above the site "
+"title and main menu part."
+msgstr ""
+
+#: inc/customizer.php:155
+msgid ""
+"Position Below: Display the Header image just below the site title and main "
+"menu part."
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Design"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Wide layout"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Boxed layout"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Default layout"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid ""
+"Select default layout. This layout will be reflected in whole site "
+"archives, search etc. The layout for a single post and page can be "
+"controlled from below options."
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Default layout for pages only"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page."
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Default layout for single posts only"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid ""
+"Select default layout for single posts. This layout will be reflected in "
+"all single posts unless unique layout is set for specific post."
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Primary color option"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to "
+"match your site."
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Activate slider"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Check to activate slider."
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Slider #%1$s"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Upload image"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Enter title for this slide"
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Enter button text"
+msgstr ""
+
+#: inc/customizer.php:401
+msgid "Enter link to redirect"
+msgstr ""
+
+#: inc/customizer.php:414
+msgid "Additional"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "Category to hide from Blog"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Select a Category or Categories to hide its posts from Blog page."
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Author Bio Option"
+msgstr ""
+
+#: inc/customizer.php:461
+msgid "Check to display author bio"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Check to display related posts"
+msgstr ""
+
+#: inc/customizer.php:496
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "View PRO version"
+msgstr ""
+
+#: inc/functions.php:144
+msgid "WordPress"
+msgstr ""
+
+#: inc/functions.php:148
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: inc/functions.php:148
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/functions.php:148
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/functions.php:496 inc/related-posts.php:61
+msgid ""
+"<span class=\"entry-date\"><i class=\"fa fa-aw fa-calendar-o\"></i> <a "
+"href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+msgstr ""
+
+#: inc/functions.php:507
+msgid "No Comments"
+msgstr ""
+
+#: inc/functions.php:507
+msgid "1 Comment"
+msgstr ""
+
+#: inc/functions.php:507
+msgid "% Comments"
+msgstr ""
+
+#: inc/functions.php:507
+msgid "Comments Off"
+msgstr ""
+
+#: inc/functions.php:530
+msgid "Pingback:"
+msgstr ""
+
+#: inc/functions.php:530
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions.php:545
+msgid "Post author"
+msgstr ""
+
+#: inc/functions.php:548
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions.php:556
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions.php:562
+msgid "Reply"
+msgstr ""
+
+#: inc/header-functions.php:120
+msgid "Author: %s"
+msgstr ""
+
+#: inc/header-functions.php:128
+msgid "Day: %s"
+msgstr ""
+
+#: inc/header-functions.php:131
+msgid "Month: %s"
+msgstr ""
+
+#: inc/header-functions.php:134
+msgid "Year: %s"
+msgstr ""
+
+#: inc/header-functions.php:141
+msgid "Archives"
+msgstr ""
+
+#: inc/header-functions.php:145
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/header-functions.php:147
+msgid "Search Results For: %s"
+msgstr ""
+
+#: inc/header-functions.php:175
+msgid "You are here:"
+msgstr ""
+
+#: inc/related-posts.php:7
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:14
+msgid "TG: Call To Action Widget"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:35
+#: inc/widgets/class-ample-portfolio-widget.php:42
+msgid "DESIGN SETTINGS :"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:36
+#: inc/widgets/class-ample-portfolio-widget.php:43
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:41
+#: inc/widgets/class-ample-portfolio-widget.php:48
+msgid "Background Image:"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:49
+#: inc/widgets/class-ample-portfolio-widget.php:57
+#: inc/widgets/class-ample-service-widget.php:48
+msgid "Choose an image"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:49
+#: inc/widgets/class-ample-portfolio-widget.php:57
+#: inc/widgets/class-ample-service-widget.php:48
+msgid "Use image"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:49
+#: inc/widgets/class-ample-portfolio-widget.php:57
+#: inc/widgets/class-ample-service-widget.php:48
+msgid "Select an Image"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:54
+#: inc/widgets/class-ample-portfolio-widget.php:62
+msgid "Background attachment:"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:55
+#: inc/widgets/class-ample-portfolio-widget.php:63
+msgid "Scroll"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:56
+#: inc/widgets/class-ample-portfolio-widget.php:64
+msgid "Fixed"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:59
+#: inc/widgets/class-ample-portfolio-widget.php:67
+msgid "OTHER SETTINGS :"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:61
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:65
+#: inc/widgets/class-ample-portfolio-widget.php:93
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/class-ample-call-to-action-widget.php:69
+#: inc/widgets/class-ample-portfolio-widget.php:97
+msgid "Button Redirect Link:"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:11
+msgid "Display latest posts or posts of specific category"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:15
+msgid "TG: Featured Posts"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:35
+#: inc/widgets/class-ample-portfolio-widget.php:70
+#: inc/widgets/class-ample-service-widget.php:33
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:38
+#: inc/widgets/class-ample-portfolio-widget.php:74
+#: inc/widgets/class-ample-service-widget.php:36
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:42
+#: inc/widgets/class-ample-portfolio-widget.php:78
+msgid "Number of posts to display:"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:47
+msgid "Show latest Posts"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:49
+msgid "Show posts from a category"
+msgstr ""
+
+#: inc/widgets/class-ample-featured-posts-widget.php:54
+#: inc/widgets/class-ample-portfolio-widget.php:83
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/class-ample-portfolio-widget.php:11
+msgid "Display portfolio by using specific category"
+msgstr ""
+
+#: inc/widgets/class-ample-portfolio-widget.php:15
+msgid "TG: Portfolio"
+msgstr ""
+
+#: inc/widgets/class-ample-portfolio-widget.php:100
+msgid "Note: Link to redirect. If empty than it will redirect to selected category."
+msgstr ""
+
+#: inc/widgets/class-ample-service-widget.php:10
+msgid "Show your some pages as services."
+msgstr ""
+
+#: inc/widgets/class-ample-service-widget.php:14
+msgid "TG: Service Widget"
+msgstr ""
+
+#: inc/widgets/class-ample-service-widget.php:40
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/class-ample-service-widget.php:55
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr ""
+
+#: inc/widgets/class-ample-service-widget.php:60
+msgid "Select the page to display Title and Excerpt."
+msgstr ""
+
+#: inc/widgets/class-ample-service-widget.php:65
+msgid "Page"
+msgstr ""
+
+#: inc/widgets/class-ample-service-widget.php:71
+msgid "Icon Class:"
+msgstr ""
+
+#: inc/widgets/widgets.php:22
+msgid "Shows widgets at right side."
+msgstr ""
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at left side."
+msgstr ""
+
+#: inc/widgets/widgets.php:38
+msgid "Business Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:40
+msgid "Shows widgets on Business Page Template."
+msgstr ""
+
+#: inc/widgets/widgets.php:47
+msgid "Error 404 Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:49
+msgid "Shows widgets on Error 404 page."
+msgstr ""
+
+#: inc/widgets/widgets.php:56
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:58
+msgid "Shows widgets on Right/Left side of Contact page."
+msgstr ""
+
+#: inc/widgets/widgets.php:65
+msgid "Footer Sidebar1"
+msgstr ""
+
+#: inc/widgets/widgets.php:67 inc/widgets/widgets.php:76
+#: inc/widgets/widgets.php:85 inc/widgets/widgets.php:94
+msgid "Shows widgets on footer."
+msgstr ""
+
+#: inc/widgets/widgets.php:74
+msgid "Footer Sidebar2"
+msgstr ""
+
+#: inc/widgets/widgets.php:83
+msgid "Footer Sidebar3"
+msgstr ""
+
+#: inc/widgets/widgets.php:92
+msgid "Footer Sidebar4"
+msgstr ""
+
+#: navigation.php:24
+msgid "&laquo; Previous"
+msgstr ""
+
+#: navigation.php:25
+msgid "Next &raquo;"
+msgstr ""
+
+#: navigation.php:36
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:37
+msgid "Next &rarr;"
+msgstr ""
+
+#: no-results.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: sidebar-left.php:18 sidebar.php:29
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar-left.php:19 sidebar.php:30
+msgid ""
+"This is an example widget to show how the Left sidebar looks by default. "
+"You can add custom widgets from the %swidgets screen%s in the admin. If "
+"custom widgets are added then this will be replaced by those widgets"
+msgstr ""
+
+#: sidebar.php:23
+msgid "Contact Page"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Right"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/ample/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ample is a multipurpose responsive WordPress theme made to help you create "
+"a beautiful professional looking site in no time. It has numerous built-in "
+"options to give your site the look that you want. Get free support at "
+"https://themegrill.com/contact/ and check the demo at "
+"https://themegrilldemos.com/ample/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr ""
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
